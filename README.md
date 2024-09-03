@@ -1,2 +1,3 @@
-# my-new-repo-with-readme
-This is a test repository with README
+# My New Repository
+
+This is the content of the README file.
